@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Siddharth Girdhar</title>
+    <link>https://siddharthgir.github.io/tag/computer-vision/</link>
+      <atom:link href="https://siddharthgir.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://siddharthgir.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Vision</title>
+      <link>https://siddharthgir.github.io/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>1 x 1</title>
+      <link>https://siddharthgir.github.io/project/box_reid/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://siddharthgir.github.io/project/box_reid/</guid>
+      <description>&lt;p&gt;1x1 is a package re-identification system that allows users to load images of unique packages with a tag into the system and then query with a new image of one of the inserted packages to identify which tag it was linked to. The system generates a fingerprint for each package by first isolating the package via background removal and then generating features through a color histogram, dimensions of the package and a contrastive encoder. These fingerprints can then be used to match images to package, as 2 images of the same package will have a similar fingerprint. In our tests, we are able to acheive above 90% accuracy in re-identifiying boxes for a test sample of 200+ boxes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

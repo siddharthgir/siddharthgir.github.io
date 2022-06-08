@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Siddharth Girdhar</title>
+    <link>https://siddharthgir.github.io/tag/robotics/</link>
+      <atom:link href="https://siddharthgir.github.io/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://siddharthgir.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Robotics</title>
+      <link>https://siddharthgir.github.io/tag/robotics/</link>
+    </image>
+    
+    <item>
+      <title>WHAC</title>
+      <link>https://siddharthgir.github.io/project/whac/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://siddharthgir.github.io/project/whac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Copying Robot</title>
+      <link>https://siddharthgir.github.io/project/human-following-robot/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://siddharthgir.github.io/project/human-following-robot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
